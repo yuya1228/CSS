@@ -43,28 +43,36 @@ li{
 nav{
   margin: 0 0 0 auto;
 }
+
+.resizeimage img {
+  width: 100%;
+}
+
 .absolute__img{
   margin: 0 0 0 auto;
   display: block;
   position: relative;
-  width: 55%;
+  width: 50vw;
   height: 20%;
   z-index: 10;
   right: 0;
-  top: 250px;
+  top: 300px;
 }
-h1{
+.resizeimage img {
+  width: 100%;
+}
+.consept{
   font-weight:bold;
   font-size:50px;
   position:absolute;
-  top: 570px;
+  top: 65%;
 
 }
-.blue-box{
+.bule-box{
   background-color:blue;
   position: absolute;
   width: 75%;
-  height: 180px;
-  bottom: 380px;
+  height: 250px;
+  bottom: 5vw;
   z-index: 0;
 }
