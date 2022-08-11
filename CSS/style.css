@@ -57,14 +57,14 @@ h1{
   font-weight:bold;
   font-size:50px;
   position:absolute;
-  bottom: 50%;
+  top: 570px;
 
 }
-.black-box{
-  background-color:black;
+.blue-box{
+  background-color:blue;
   position: absolute;
   width: 75%;
-  height: 150px;
-  top: 50%;
+  height: 180px;
+  bottom: 380px;
   z-index: 0;
 }
