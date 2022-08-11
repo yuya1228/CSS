@@ -43,15 +43,15 @@ li{
 nav{
   margin: 0 0 0 auto;
 }
-.relative__img{
+.absolute__img{
   margin: 0 0 0 auto;
   display: block;
+  position: relative;
   width: 55%;
   height: 20%;
   z-index: 10;
-  position: relative;
   right: 0;
-  top:  250px;
+  top: 250px;
 }
 h1{
   font-weight:bold;
