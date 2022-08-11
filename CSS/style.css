@@ -57,7 +57,7 @@ h1{
   font-weight:bold;
   font-size:50px;
   position:absolute;
-  top: 45%;
+  bottom: 50%;
 
 }
 .black-box{
@@ -66,4 +66,5 @@ h1{
   width: 75%;
   height: 150px;
   top: 50%;
+  z-index: 0;
 }
