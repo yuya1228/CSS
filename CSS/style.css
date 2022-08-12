@@ -61,11 +61,15 @@ nav{
 .resizeimage img {
   width: 100%;
 }
+
+main{
+  position:relative;
+}
 .consept{
   font-weight:bold;
   font-size:50px;
   position:absolute;
-  top: 65%;
+  top: 40vw;
 
 }
 .bule-box{
@@ -73,6 +77,6 @@ nav{
   position: absolute;
   width: 75%;
   height: 250px;
-  bottom: 5vw;
+  top: 45vw;
   z-index: 0;
 }
